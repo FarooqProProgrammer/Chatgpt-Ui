@@ -5,7 +5,7 @@ import Image from "next/image";
 export default function Home() {
   return (
     <div className="w-full min-h-screen h-full scrollbar-0">
-      <SidebarTrigger />
+      {/* <SidebarTrigger /> */}
       <InitialView />
     </div>
   );
